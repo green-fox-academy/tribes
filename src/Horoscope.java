@@ -1,5 +1,5 @@
 public class Horoscope {
-    public String future() {
-        return "Taurus";
+    public String future(String horoscopeSign) {
+        return horoscopeSign;
     }
 }
