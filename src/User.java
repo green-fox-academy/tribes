@@ -2,8 +2,8 @@ public class User {
 
     int age;
 
-    public void count (int age) {
+    public void count (int month) {
         age = 24;
-        System.out.println(age);
+        System.out.println(month);
     }
 }
