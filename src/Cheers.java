@@ -1,9 +1,9 @@
 public class Cheers {
 
-    String teamName = "RedFoxes";
+    String teamName;
 
     public void cheer (){
-
+teamName = "RedFoxes";
         System.out.println("Team name is: " +teamName);
     }
 
